@@ -97,7 +97,7 @@ This demonstrates the principle of least privilege.
 <img width="930" height="334" alt="03-rbac-test vm1" src="https://github.com/user-attachments/assets/04851097-98f6-4356-bef2-b0f07998f8d2" />
 
 ### RBAC denied after role assignment removed
-<img width="930" height="334" alt="03-rbac-test vm" src="https://github.com/user-attachments/assets/c851ec0a-a680-4625-b247-f87a59396fbe" />
+<img width="760" height="317" alt="04-rbac-denied" src="https://github.com/user-attachments/assets/e3257a1a-2367-42d3-a691-74b643758ccf" />
 
 ## Key AZ-104 Concepts Practiced
 
