@@ -94,7 +94,7 @@ This demonstrates the principle of least privilege.
 <img width="803" height="323" alt="02-rbac-role-assignment" src="https://github.com/user-attachments/assets/24f8c2bf-a8d0-40df-b6d8-c6844031de51" />
 
 ### RBAC Scope
-<img width="760" height="317" alt="04-rbac-denied" src="https://github.com/user-attachments/assets/bf897085-01d1-4ff8-abf0-cfeaacc15ea3" />
+<img width="930" height="334" alt="03-rbac-test vm1" src="https://github.com/user-attachments/assets/04851097-98f6-4356-bef2-b0f07998f8d2" />
 
 ### RBAC denied after role assignment removed
 <img width="930" height="334" alt="03-rbac-test vm" src="https://github.com/user-attachments/assets/c851ec0a-a680-4625-b247-f87a59396fbe" />
