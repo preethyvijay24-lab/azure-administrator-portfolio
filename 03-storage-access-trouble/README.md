@@ -9,6 +9,8 @@ The lab simulates a real-world **Application Support incident** where a user is 
 The issue is investigated using a structured troubleshooting approach, the required RBAC permission is identified and assigned, and access is verified after the resolution.
 
 ---
+## Table of contents
+[Architecture](#Architecture)
 
 ## Project Objective
 
