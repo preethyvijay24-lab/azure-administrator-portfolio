@@ -10,11 +10,15 @@ The issue is investigated using a structured troubleshooting approach, the requi
 
 ---
 ## Table of contents
-[Project Objective](#Project Objective)
-[Architecture](#Architecture)
-[Azure Resources](#Azure Resources)
-[ Incident Scenario](# Incident Scenario)
-[Screenshots](#Screenshots)
+-[Project Objective](#Project-Objective)
+
+-[Architecture](#Architecture)
+
+-[Azure Resources](#Azure-Resources)
+
+-[Incident Scenario](#Incident-Scenario)
+
+-[Screenshots](#Screenshots)
 
 ## Project Objective
 
