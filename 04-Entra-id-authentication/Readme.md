@@ -139,6 +139,9 @@ The Azure Web App was integrated with Microsoft Entra ID using OpenID Connect.
 <img width="668" height="367" alt="03-app-registration" src="https://github.com/user-attachments/assets/0a34bb3b-d8ef-4d7d-9704-dddcbf0406f8" />
 
 
+
+
+
 <img width="888" height="356" alt="04-app-overview" src="https://github.com/user-attachments/assets/af759393-2cf7-4545-9360-3d3e60ea5cf8" />
 
 
