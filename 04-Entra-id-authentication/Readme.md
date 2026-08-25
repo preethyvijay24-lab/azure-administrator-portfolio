@@ -11,6 +11,7 @@ The application authenticates users through Microsoft Entra ID, displays the aut
 
 -[Authentication Flow](#Authentication-Flow)
 
+-[Project Objective](#Project-Objective)
 ##  Architecture
 
 ```text
