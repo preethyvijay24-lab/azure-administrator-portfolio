@@ -9,6 +9,8 @@ The application authenticates users through Microsoft Entra ID, displays the aut
 
 ## Table of content
 
+-[Authentication Flow](#Authentication-Flow)
+
 ##  Architecture
 
 ```text
