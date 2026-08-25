@@ -261,6 +261,13 @@ The page displayed:
 
 The `/Admin` page is protected with the `[Authorize]` attribute and requires authentication.
 
+
+
+<img width="1149" height="1369" alt="ChatGPT Image Aug 25, 2026, 12_12_55 PM" src="https://github.com/user-attachments/assets/adb76254-a5cc-4251-9a3a-785df7e8ed8b" />
+
+
+
+
 ## Skills Demonstrated
 
 * Microsoft Entra ID
